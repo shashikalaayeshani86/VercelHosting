@@ -34,7 +34,7 @@ export default function Hero() {
         </motion.a>
 
         <motion.a
-          href="/VercelHosting/ShashikalaAyeshani_SoftwareEngineerIntern.pdf"
+          href="/ShashikalaAyeshani_SoftwareEngineerIntern.pdf"
           download
           whileHover={{ scale: 1.05 }}
           className="inline-block px-6 py-3 font-semibold text-white transition bg-green-500 rounded-full hover:bg-green-600"
